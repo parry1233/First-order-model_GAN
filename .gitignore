@@ -1,3 +1,8 @@
 /.vscode
 __pycache__
 /venv
+face-alignment
+driving_video/*
+fom_checkpoints/*
+source_image/*
+result.mp4
